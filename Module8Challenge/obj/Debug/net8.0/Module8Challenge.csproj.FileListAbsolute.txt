@@ -1,0 +1,5 @@
+/workspaces/Module8Challenge/Module8Challenge/obj/Debug/net8.0/Module8Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module8Challenge/Module8Challenge/obj/Debug/net8.0/Module8Challenge.AssemblyInfoInputs.cache
+/workspaces/Module8Challenge/Module8Challenge/obj/Debug/net8.0/Module8Challenge.AssemblyInfo.cs
+/workspaces/Module8Challenge/Module8Challenge/obj/Debug/net8.0/Module8Challenge.csproj.CoreCompileInputs.cache
+/workspaces/Module8Challenge/Module8Challenge/obj/Debug/net8.0/Module8Challenge.sourcelink.json
